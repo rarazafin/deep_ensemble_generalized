@@ -9,7 +9,7 @@
 
 ---
 
-![Main figure](assets/main_figure.png)
+![Main figure](assets/main_figure.svg)
 
 ## Abstract
 
